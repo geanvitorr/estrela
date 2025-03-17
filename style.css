@@ -80,7 +80,60 @@ section {
     margin-bottom: 3rem;
     background: url('flor.png') top right no-repeat,
         url('flor-esquerda.png') bottom left no-repeat;
-    background-size: 180px 180px;
+    background-size: 180px 180px;@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
+    
+    :root {
+        --laranja-claro: #FF862A;
+    }
+    
+    body {
+        font-size: 1rem;
+        font-family: 'Montserrat';
+    }
+    
+    header {
+        background-color: #ffffff;
+    }
+    
+    
+    section {
+        padding-bottom: 5rem;
+    }
+    
+    
+    .nav-link {
+        color: #CB6D43;
+        font-weight: 600;
+    }
+    
+    .inicio-fundo {
+        /* aula 3 */
+        background-image: url('4965007.jpg');
+        /* Substitua pelo caminho da sua imagem */
+    .nav-link {
+        color: #CB6D43;
+        font-weight: 600;
+    }
+    
+        background-size: cover;
+        background-position: right;
+        border-radius: 80px;
+        width: 100%;
+        height: 606px;
+        padding: 40px;
+        margin: 0 auto;
+    }
+    
+    /* posicionamento para a imagem à direita */
+    .img-inicio {
+        position: absolute;
+        right: 0;
+        top: 18rem;
+        width: 45rem;
+        height: auto;
+    }
+    
     /* Ajuste o tamanho conforme necessário */
 }
 

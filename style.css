@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
+    --laranja-claro:rgb(255, 42, 42);
 }
 
 body {
@@ -84,7 +84,7 @@ section {
     @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
     
     :root {
-        --laranja-claro: #FF862A;
+        --laranja-claro: #4a2aff;
     }
     
     body {

@@ -84,7 +84,7 @@ section {
     @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
     
     :root {
-        --azul : #85829b;
+        --azul : #290fec4b;
     }
     
     body {
@@ -93,7 +93,7 @@ section {
     }
     
     header {
-        background-color: #db0e0e;
+        background-color: #b20edb;
     }
     
     
@@ -103,7 +103,7 @@ section {
     
     
     .nav-link {
-        color: #CB6D43;
+        color: #d86530;
         font-weight: 600;
     }
     
@@ -112,7 +112,7 @@ section {
         background-image: url('4965007.jpg');
         /* Substitua pelo caminho da sua imagem */
     .nav-link {
-        color: #CB6D43;
+        color: #cb4387;
         font-weight: 600;
     }
     
